@@ -14,10 +14,11 @@ The Excel Personal Budget Tracker is a comprehensive spreadsheet tool designed t
 - **Dynamic Tables**: All data is structured in tables with header formatting for easy addition and adjustment of entries.
 
 ## Screenshots
-![Summary Sheet](Module 1 - Fundamentals of Analysis of Data/Excel/Outputs/image-1.png)
-![Savings Sheet](Module 1 - Fundamentals of Analysis of Data/Excel/Outputs/image-2.png)
-![Expenses Sheet](Module 1 - Fundamentals of Analysis of Data/Excel/Outputs/image-3.png)
-![Income Sheet](Module 1 - Fundamentals of Analysis of Data/Excel/Outputs/image-4.png)
+![Summary Sheet](Outputs/image-1.png)
+![Savings Sheet](Outputs/image-2.png)
+![Expenses Sheet](Outputs/image-3.png)
+![Income Sheet](Outputs/image-4.png)
+
 
 ## How to Use
 
