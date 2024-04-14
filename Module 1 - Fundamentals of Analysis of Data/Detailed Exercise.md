@@ -28,7 +28,7 @@
   - [Tableau Training Videos](https://www.tableau.com/learn/training)
   - [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
 - **Projects**:
-  1. [ ] **Sales Dashboard**: Create interactive dashboards to analyze sales performance using Tableau or Power BI.
+  1. [x] **Sales Dashboard**: Create interactive dashboards to analyze sales performance using Tableau or Power BI.
   2. [ ] **Geographic Visualizations**: Visualize geographical data such as population density or sales distribution on maps.
 
 ### 🧠 Quizzes and Extra Learning
