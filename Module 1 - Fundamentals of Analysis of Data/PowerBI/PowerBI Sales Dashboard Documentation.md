@@ -7,6 +7,7 @@ Welcome, data explorer! In Exercise III, you'll dive into the world of Power BI 
 ## Power BI Sales Dashboard: Sales Performance Report & Trend Analysis
 
 Welcome to our interactive sales dashboard, designed to provide comprehensive insights into sales performance and trend analysis. This dashboard empowers you to make data-driven decisions by visualizing key metrics and trends.
+![full dashboard](Outputs/image3.png)
 
 ## Sales Performance Report
 
