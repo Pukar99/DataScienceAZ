@@ -19,7 +19,7 @@
   - [Python Documentation](https://docs.python.org/3/tutorial/index.html)
   - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - **Projects**:
-  1. [ ] **Factorial Calculator**: Write a Python program to calculate the factorial of a number.
+  1. [x] **Factorial Calculator**: Write a Python program to calculate the factorial and other baisc things of a number.
   2. [ ] **To-Do List App**: Create a simple application to manage tasks with features like adding, deleting, and listing tasks.
 
 ### 📊 Tableau / PowerBI
