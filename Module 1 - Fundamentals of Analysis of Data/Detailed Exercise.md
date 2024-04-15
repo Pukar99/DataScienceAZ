@@ -20,7 +20,7 @@
   - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3)
 - **Projects**:
   1. [x] **Factorial Calculator**: Write a Python program to calculate the factorial and other baisc things of a number.
-  2. [ ] **To-Do List App**: Create a simple application to manage tasks with features like adding, deleting, and listing tasks.
+  2. [x] **To-Do List App**: Create a simple application to manage tasks with features like adding, deleting, and listing tasks.
 
 ### 📊 Tableau / PowerBI
 - **What**: Learn to visualize and explore data using powerful analytics tools.
@@ -29,7 +29,7 @@
   - [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
 - **Projects**:
   1. [x] **Sales Dashboard**: Create interactive dashboards to analyze sales performance using Tableau or Power BI.
-  2. [ ] **Geographic Visualizations**: Visualize geographical data such as population density or sales distribution on maps.
+  2. [x] **Geographic Visualizations**: Visualize geographical data such as population density or sales distribution on maps.
 
 ### 🧠 Quizzes and Extra Learning
 - **Quizzes**: Regular quizzes to test understanding of concepts.
