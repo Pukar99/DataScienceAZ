@@ -11,7 +11,7 @@
   - [Excel Tutorial - Tutorialspoint](https://www.tutorialspoint.com/excel/index.htm)
 - **Projects**:
   1. [x] **Budget Tracker**: Build a budget spreadsheet with formulas for income, expenses, and savings.
-  2. [ ] **Sales Analysis**: Analyze sales data using pivot tables and create visualizations to identify trends.
+  2. [x] **Sales Analysis**: Analyze sales data using pivot tables and create visualizations to identify trends.
 
 ### 🐍 Beginner Python
 - **What**: Introduction to programming with Python for data manipulation and analysis.
