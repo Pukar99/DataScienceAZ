@@ -9,7 +9,7 @@ class TodoApp:
         if self.tasks:
             print("Tasks:")
             for index, task in enumerate(self.tasks, start=1):
-                print(f"{index}. {task}")1
+                print(f"{index}. {task}")
             else:
                 print("No tasks")
     def mark_task_complete(self, task_index):
