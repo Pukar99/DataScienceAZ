@@ -18,3 +18,9 @@ print(type(b))
 sum = int(a) + b #Type conversion of a to int where int is superior value
 print(sum)
 # Output: 30 This is explicit type conversion
+
+a = 2.32
+a = str(a)
+print(type(a))
+# Output: <class 'str'>
+
