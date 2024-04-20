@@ -31,4 +31,4 @@ Behold the wonders that await you in the vast expanse of the Excel Personal Budg
 4. **Customization**: Tailor your journey by customizing categories and chart formatting to suit your unique path.
 5. **Stay on Course**: Keep your ship steady and on course by maintaining your data in the structured tables.
 
-Safe travels and may the data be with you! 🌌
+Safe travels and may the data be with you! 
