@@ -26,11 +26,26 @@ print(student)
 
 #List Methods
 list =[1,2,3,4]
+
 list.append(5)
+
+#Output: [1, 2, 3, 4, 5]
+
 list.sort()
+#Output: [1, 2, 3, 4, 5]
+
 list.sort(reverse=True)
+#Output: [5, 4, 3, 2, 1]
+
 list.reverse()
+#Output: [1, 2, 3, 4, 5]
+
 list.insert(1,'apple')
+#Output: [1, 'apple', 2, 3, 4, 5]
+
 print(list)
+#Output: [1, 'apple', 2, 3, 4, 5]
 list.remove(3)
+#Output: [1, 'apple', 2, 4, 5]
+
 print(list)
