@@ -255,3 +255,73 @@ for i in range (10):
 #         3
 #         4
 #         5
+
+#using for print the elements of the following list using a loop:
+#[1,4,9,16,25,36,49,64,81,100]
+# Answer:
+list = [1,4,9,16,25,36,49,64,81,100]
+for el in list:
+    print(el)
+    
+#Q1. Print numbers form 1 to 5 uisn for and range()
+# Answer:
+for i in range(1,6):
+    print(i)
+# Output: 1
+#         2
+#         3
+#         4
+#         5
+
+#Q2. Print numbers form 5 to 1.
+# Answer:
+for i in range(5,0,-1):
+    print(i)
+# Output: 5
+#         4
+#         3
+#         2
+#         1
+
+#Print the mulitplication table of a number n.
+n = int(input("Enter the number: "))
+for i in range(1,5):
+    print(n,"X",i,"=",n*i)
+# Enter the number: 5
+# Output: 5 X 1 = 5
+#         5 X 2 = 10
+#         5 X 3 = 15
+#         5 X 4 = 20
+#
+
+#Pass Statements
+# Pass statement is used to write empty loops. It is used when we do not want to execute any code.
+
+for i in range(5):
+    pass
+# here the loop will not do anything.
+
+
+#WAP to find the sum of first n numbers. (using while loop)
+# Answer:
+n = int(input("Enter the number: "))
+sum = 0
+i = 1
+while i <= n:
+    sum += i
+    i += 1
+print("Sum is",sum)
+# Enter the number: 5
+# Output: Sum is 15
+
+#WAP to find the factorial of first n numbers.(using for )
+#Answer:
+n = int(input("Enter the number: "))
+fact = 1
+for i in range(1,n+1):
+    fact *= i
+print("Factorial is",fact)
+# Enter the number: 5
+# Output: Factorial is 120
+
+
