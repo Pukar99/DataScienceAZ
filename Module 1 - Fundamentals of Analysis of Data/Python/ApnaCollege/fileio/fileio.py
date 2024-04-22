@@ -47,6 +47,51 @@
 # f.write("I want to Learn javascript \n")
 # f.close()
 
-f = open("sample1.txt", "a")
-f.write("I want to Learn javascript \n")
-f.close()
+# f = open("sample1.txt", "a")
+# f.write("I want to Learn javascript \n")
+# f.close()
+
+# #to overwrite at rist 
+# f = open("sample1.txt", "r+")
+# f.write("I want to Learn Pukar \n")
+# f.close()
+
+# with open("demo.txt", "r") as f:
+#     data = f.read()
+#     print(data)
+#     print(type(data))
+#     f.close()
+    
+
+# with open ("demo.txt", "w") as f:
+#     f.write("I want to Learn Pukar very fast \n")
+#     f.close()
+
+
+#Q1. Create a new file "pracice.txt" and write "I am learning Python" in it.
+
+# with open("practice.txt", "w") as f:
+#     f.write("I am learning Python")
+#     f.close()
+
+
+#Q2. WAP that replace all occurences of java with python in above file.
+
+# with open("practice.txt", "r+") as f:
+#     data = f.read()
+#     data = data.replace("Python", "Java")
+# with open("practice.txt", "w") as f:
+#     f.write(data)
+#     f.close()
+    
+    
+# Q3. find python in the senetences
+
+with open("practice.txt", "r") as f:
+    data = f.read()
+    if "Python" in data:
+        print("Yes")
+    else:
+        print("No")
+    f.close()
+    
