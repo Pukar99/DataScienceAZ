@@ -1,0 +1,39 @@
+project_directory/
+│
+├── data/
+│   ├── raw/
+│   │   ├── dataset1.csv
+│   │   ├── dataset2.xlsx
+│   │   └── ...
+│   ├── processed/
+│   │   ├── cleaned_data.csv
+│   │   ├── transformed_data.pkl
+│   │   └── ...
+│   └── external/
+│       ├── external_data1.csv
+│       ├── external_data2.xlsx
+│       └── ...
+│
+├── notebooks/
+│   ├── exploratory_analysis.ipynb
+│   ├── data_preprocessing.ipynb
+│   ├── model_training.ipynb
+│   └── ...
+│
+├── scripts/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+│   └── ...
+│
+├── models/
+│   ├── trained_model.pkl
+│   └── ...
+│
+├── reports/
+│   ├── project_summary.pdf
+│   └── ...
+│
+├── README.md
+├── requirements.txt
+└── LICENSE
