@@ -1,34 +1,38 @@
-What is Generative AI ?
-- Generative AI refers to a type of AI that generates new data that resemble a gives training datasets.
-- It learns that underlying patterns and structure of the data witht he help of neural networks to generate new and original content 
+What is Generative AI?
+- Generative AI refers to a type of AI that generates new data resembling given training datasets.
+- It learns the underlying patterns and structure of the data using neural networks to generate new and original content.
 
-Application of Generative AI:
--  Natural Language Process (NLP): chatbot, translation, text-generation
-- Content Generation (Writing blogs, news )
+Applications of Generative AI:
+- Natural Language Processing (NLP): chatbots, translation, text generation
+- Content Generation (writing blogs, news)
 - Image and Video Generation
-- Data Generation and Anlaysis(Data Science and Analytics)
-- Healthcare (Simulate & Diaganose)
-- Finance (Fraud Detection)
+- Data Generation and Analysis (Data Science and Analytics)
+- Healthcare (simulation and diagnosis)
+- Finance (fraud detection)
 
-
-How does Generative AI works?
-- Generative AI models use deep learning to analyze common patterns and arrangements in large set of data.
-- Then they use this information to create new, convincing outputs.
-- The modles do this by incorporating machine learning techniques known as neural networks
+How does Generative AI work?
+- Generative AI models use deep learning to analyze common patterns and arrangements in large sets of data.
+- They then use this information to create new, convincing outputs.
+- These models incorporate machine learning techniques known as neural networks.
 - Process:
-  Data collection ----> Training  ----> Generation ----> Fine tuning 
-
+  Data collection -> Training -> Generation -> Fine-tuning
 
 What are Large Language Models?
-- Large Language Models (LLMs) are foundational machine learning models that use deep learning alogrithms to process and understand natural language.
-- These modles are trained on massive amounts of text data to learn patterns and entity relationships in the language.
-- They can understand complex textual data, identify entitites and realtionships between them, and generate new text that is coherent and grammatically accurate.
+- Large Language Models (LLMs) are foundational machine learning models that use deep learning algorithms to process and understand natural language.
+- These models are trained on massive amounts of text data to learn patterns and entity relationships in the language.
+- They can understand complex textual data, identify entities and relationships between them, and generate new text that is coherent and grammatically accurate.
 
+What are the differences between Generative AI and Discriminative AI?
+- Generative AI refers to deep learning models that can generate high-quality text, images, and other content based on the data they were trained on.
+- Discriminative AI refers to a class of models used in statistical classification, mainly for supervised machine learning. These types of models are also known as conditional models since they learn the boundaries between classes or labels in a dataset.
 
-What is the differences between Generative AI and Discriminative AI?
-- Generative AI refers to deep- learning model sthat can generate high-quality text, images and other content based on the data they were trained on.
-- Discriminative AI referes to a class of models used in statistical classification, mainly used for supervised machine learning. These types of modles are 
-also known as conditional models since they learn the boundaries between classes or labels in a dataset.
+What are the different types of Generative AI?
+Generative AI is a subset of artificial intelligence that leverages machine learning techniques to generate data. The most common types of Generative AI include:
 
+Generative Adversarial Networks (GANs): These are algorithmic architectures that use two neural networks, pitting one against the other to generate new, synthetic instances of data that can pass for real data.
 
-What are 
+Variational Autoencoders (VAEs): These are generative algorithms that use deep learning techniques to produce complex models, which are then used to generate data.
+
+Transformer Models: These are models that use self-attention mechanisms and are often used for natural language processing tasks, including text generation.
+
+Autoregressive Models: These models predict future data points based on previously observed data.
