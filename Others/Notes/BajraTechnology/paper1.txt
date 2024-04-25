@@ -1,0 +1,21 @@
+Which SQL  statement is used to insert new data into the database
+what does the term sql injection refer to 
+what is the purpose of the sql like operator
+in sql what is the purpose of the rollback statement
+which sql function is used to convert a value to uppercase
+what is the primary advantage of useing word emnbedding such as word2vec or glove over traditional bag of word representations for text data?
+which ai technique involves mimicking the structure and function of the human brain to build intelligent systems
+what is the role of reinforcement learning in ai
+which technique is used for transferring knowledge from a pre- trained modle to a new task with as different dataset
+which method is used for reducing the dimensionality of text data while preserving semantic meaning
+which of the following is not a supervised learning algorithm? decision tree, k mean clustering, support vector machines, lineasr regression
+what is the primary purpose of backpropagation in neural networks
+In calculs, what does the derivative of a function repreesent geometrically 
+which of the following is a characteristic of convolutional neural networks(CNNs)
+Which rule is used to find the derivative of a product of two functions? chain rule product rule, quotient rule power rule
+what is the derivative of the function f(x) = e^x?
+What is the primary characteristic of supervised learning
+what are the two main types of supervised learning tasks?
+Which of the following is an example of a regression problem in supervised learning {prdicting house based on its features}
+What is the primary goal of unsupervised learning?
+
