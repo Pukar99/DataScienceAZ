@@ -1,0 +1,19 @@
+What is LlamaIndex?
+    LlamaIndex is an open-source Python library that acts as a bridge between your private/custom data and LLMs.
+    It provides tools to ingest various data formats (PDFs, documents, databases, APIs, etc.), structure the data, and allow LLMs to query and reason over this data.
+    The goal is to augment the knowledge of LLMs with your specific data to build powerful AI applications.
+    
+How Does LlamaIndex Work?
+    Data Ingestion: LlamaIndex has over 100 data loaders to connect to different data sources like files, databases, web APIs, etc.
+    Data Indexing: It structures and indexes the ingested data using different indexing strategies like list, tree, vector, etc. based on the data characteristics.
+    Data Querying: LlamaIndex provides an interface to query the indexed data using natural language prompts. It retrieves relevant data chunks and passes them to the LLM for generating a response.
+    LLM Integration: LlamaIndex supports integration with various LLM providers like OpenAI, Anthropic, etc. and allows chaining multiple LLMs.
+
+Key Features:
+    Supports over 160 data sources and 40 vector databases
+    Provides different indexing strategies optimized for different data structures
+    Allows combining data from multiple sources for querying
+    Offers tools for evaluating LLM response quality and retrieval performance
+    Has an active open-source community with contributions and integrations
+
+In essence, LlamaIndex simplifies the process of integrating custom data with LLMs, enabling developers to build data-aware AI applications more efficiently.

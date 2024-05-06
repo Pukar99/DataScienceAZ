@@ -1,0 +1,17 @@
+What is Retrieval-Augmented Generation (RAG)?
+    RAG is a framework that allows LLMs to access and utilize information from external databases or knowledge sources when generating responses.
+    It combines the generative capabilities of LLMs with the ability to retrieve relevant information from external sources in a two-step process:
+        Retrieval: Relevant information is retrieved from external databases based on the input query or prompt.
+        Generation: The retrieved information is provided as additional context to the LLM, which then generates a response by combining its own knowledge with the retrieved information.
+
+Benefits of RAG
+    Improves the accuracy and reliability of LLM responses by grounding them in factual information from external sources.
+    Allows LLMs to incorporate up-to-date and domain-specific knowledge, reducing hallucinations and outdated information.
+    Provides transparency by allowing users to verify the sources used by the LLM in generating its response.
+    Reduces the need for continuous retraining or fine-tuning of LLMs as new information becomes available, as the external sources can be updated independently.
+
+Applications of RAG
+    Question answering systems that require access to specific knowledge bases or databases.
+    Chatbots and virtual assistants that need to provide accurate and up-to-date information from various sources.
+    Document summarization and analysis tasks that require integrating information from multiple sources.
+    Knowledge-intensive applications in domains like healthcare, finance, and legal, where access to reliable and current information is crucial.

@@ -1,0 +1,12 @@
+What is Web Scraping?
+-   Web scraping involves fetching web pages and extracting specific data from them in a structured format like CSV or JSON.
+    It automates the process of manually copying data from websites, making it efficient to extract large amounts of data.
+    Common use cases include price monitoring, market research, lead generation, content monitoring, and data mining.
+How Does Web Scraping Work?
+ -   Web scrapers send HTTP requests to websites and retrieve the HTML content of web pages.
+    They then parse the HTML using techniques like regular expressions or HTML parsing libraries to extract the desired data.
+    Some websites try to detect and block web scrapers using measures like IP blocking or CAPTCHA challenges.
+Web Scraping Tools and Libraries
+ -   Python has powerful libraries like Beautiful Soup, Scrapy, and Selenium for web scraping.
+    These libraries provide functionality for sending requests, parsing HTML/XML, handling JavaScript, and more.
+    There are also dedicated web scraping tools and services that can be used instead of coding scrapers from scratch.
