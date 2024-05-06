@@ -1,0 +1,16 @@
+Question Answering Models(Q&A)
+-   Question Answering (Q&A) models fine-tuned with Large Language Models (LLMs) on custom datasets are a powerful tool for enhancing the performance of 
+    language models in specific domains or applications. These models are trained on large datasets of text and are designed to generate human-like 
+    responses to user queries. Fine-tuning LLMs on custom datasets involves adapting the pre-trained model to a specific domain or task by training it on  
+    a dataset relevant to that domain. This process allows the model to learn domain-specific knowledge and improve its performance in answering questions
+    related to that domain.
+The process of fine-tuning LLMs for Q&A typically involves several steps:
+    Data Collection: Gathering a dataset of questions and answers relevant to the specific domain or task. 
+        This dataset should be large enough to provide the model with a good understanding of the domain and the types of questions that can be asked.
+    Data Preprocessing: Preprocessing the data to prepare it for the model. This can include tokenization, normalization, and possibly even additional 
+        processing steps depending on the specific requirements of the model.
+    Model Selection: Choosing a suitable pre-trained LLM model that is compatible with the dataset and the task at hand. This can be a model like BERT, 
+        RoBERTa, or others that have been pre-trained on large datasets and can be fine-tuned for specific tasks.
+    Fine-Tuning: Fine-tuning the selected model on the custom dataset. This involves adjusting the model's parameters to better fit the specific domain 
+        or task by minimizing the difference between the model's predictions and the actual answers in the dataset.
+    Evaluation: Evaluating the performance of the fine-tuned model on a test set to ensure it is performing well and making accurate predictions.

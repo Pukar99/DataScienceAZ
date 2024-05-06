@@ -1,0 +1,6 @@
+Named Entity Recognition (NER) is the process of finding and labeling important "entities" like names of people, companies, places, dates, etc. within text. For example, in the sentence "Apple is looking at buying U.K. startup for $1 billion", NER would identify and label:
+Apple as an Organization
+U.K. as a Geopolitical Entity
+$1 billion as a Money value
+spaCy is a Python library that makes it easy to perform NER and other NLP tasks on text. It provides pre-trained models that can automatically detect and label named entities when you pass in text. spaCy's NER models are fast and accurate, making it a popular choice for production NLP systems.
+So in simple terms, NER helps you extract key information like names, places, and numeric values from text data. And spaCy is a library that gives you ready-to-use NER capabilities along with other useful NLP features in Python.
