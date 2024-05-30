@@ -23,6 +23,7 @@ app.layout = html.Div([
     Output("stock-chart", "figure"),
     Input("ticker-input", "value"),
     Input("interval-component", "n_intervals")
+    
 )
 def update_chart(ticker, n):
     df = fetch_data(ticker)
